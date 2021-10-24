@@ -1,0 +1,3 @@
+vi  /root/.ssh/id_rsa - paste the private key
+vi /root/.ssh/id_rsa.pub - paste the public key
+
